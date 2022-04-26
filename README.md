@@ -1,2 +1,4 @@
-# AI_Search_Algorithm-
-The purpose of this assignment is to implement a problem-solving agent using a search algorithm. You will implement three different strategies: breadth first search, depth-first search and A star. Given a problem, your implementation will indicate whether there is a solution from the initial state to the goal state. When a solution exists, you will indicate, for each strategy, all the steps taken, the states that have been visited and the ones that have been considered for examination.
+Write a program in Julia that accepts an adversarial game as an input
+and returns the solution using the minimax algorithm with the alpha-beta
+pruning strategy. The game should support multiple players with multiple
+turns for each player.
